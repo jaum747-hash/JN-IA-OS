@@ -13,3 +13,10 @@
 **Principais entregas:**
 
 ## Contexto adicional
+
+## Cliente ideal e oferta
+
+> Preenchido pelo `/posicionamento`: cliente ideal, dor na linguagem dele,
+> soluções parciais já tentadas, problema sofisticado, solução vendida e
+> precificação. Base de argumento de toda peça de venda — enquanto estiver
+> vazio, site, proposta e anúncio saem genéricos.

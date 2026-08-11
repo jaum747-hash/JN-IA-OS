@@ -25,6 +25,15 @@ descrito em `estrategia.md`.
 Pra qualquer tarefa visual (carrossel, post, landing page), consultar
 `identidade/design-guide.md` como referência de estilo.
 
+Antes de escrever qualquer peça de venda (site, proposta, anúncio,
+carrossel, email de oferta), conferir se `_memoria/empresa.md` tem a
+seção "Cliente ideal e oferta". Ela é a base de argumento: cliente
+ideal, dor na linguagem dele, soluções parciais já tentadas, problema
+sofisticado, solução vendida e preços. Se não existir ou estiver
+incompleta, avisar em uma linha e oferecer `/posicionamento` — sem essa
+base, a peça sai genérica. Se o usuário preferir seguir sem, seguir,
+mas sem inventar dor nem preço.
+
 Não é necessário listar o que foi lido nem confirmar a leitura. Apenas
 usar o contexto naturalmente.
 
@@ -82,6 +91,7 @@ alterada), perguntar:
 Se sim, identificar o que atualizar:
 
 - **Cliente, serviço, ferramenta, equipe** → `_memoria/empresa.md`
+- **Cliente ideal, dor, oferta, preço** → `_memoria/empresa.md`, seção "Cliente ideal e oferta" (montada pelo `/posicionamento`)
 - **Mudança de prioridade ou foco** → `_memoria/estrategia.md`
 - **Tom ou estilo** → `_memoria/preferencias.md`
 - **Pasta, regra de organização, skill criada** → `CLAUDE.md`

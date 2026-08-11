@@ -72,6 +72,13 @@ Fazer essas perguntas em ordem, esperando a resposta de cada uma antes de seguir
 9. "Tem identidade visual definida ou tá no zero? Se tem, me passa as cores principais e a fonte."
 10. "Tem logo? Se sim, joga o arquivo em `identidade/logo.png` (ou `.svg`) e me confirma."
 
+**Sobre a oferta:**
+11. "Teu produto e teu preço já estão fechados, ou ainda tá definindo? (só sim/não — se não estiver, a gente monta depois com calma)"
+
+Não entrevistar a oferta aqui. Se a resposta for "não", registrar como pendência e
+oferecer `/posicionamento` na Fase 6 — é uma conversa própria, de 6 etapas, que não cabe
+dentro do setup inicial.
+
 ---
 
 ## Fase 3 — Preenchimento dos arquivos
@@ -154,6 +161,14 @@ Se a pasta já tem nome próprio (não genérico), pular essa fase.
 > Você mencionou que repete '<resposta da pergunta 8>' toda semana.
 > Quando quiser tirar isso das costas de vez, roda `/mapear-rotinas`
 > que eu transformo em skill própria."
+
+Se a resposta da pergunta 11 foi "não" (oferta ou preço ainda em aberto), acrescentar:
+
+> "Você me disse que produto/preço ainda não estão fechados. Roda
+> `/posicionamento` quando tiver 20 minutos — a gente define cliente
+> ideal, a dor real, a oferta e o preço em ordem. Enquanto isso não
+> existe, qualquer site, proposta ou anúncio sai genérico, porque não
+> tem no que se apoiar."
 
 Se o usuário quiser publicar o trabalho no GitHub, mencionar `/salvar`.
 
